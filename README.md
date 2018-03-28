@@ -1,6 +1,8 @@
 # cwb
 controllable web browser
 
+#initial edit
+
 isn't it annoying you have to send http request onwards and backwards from your console, when you're looking for something specific?
 for example - if you want to investigate the javascript of the application, or perhaps add your own 'additions' to it?
 you don't want to be restricted by javascript, and you want control over what's coming and going.
@@ -50,3 +52,8 @@ YAY!
 so, a basic javascript interperter will be added to the python interperter,
 and it will not start till you tell it to, besides sending console messages when something important happens.
 let's begin , shall we?
+
+#second edit
+I can't believe it had taken me 8 months to go back to this project. well, I had it rough though. almost 4 months without a computer
+when I was constantly working on a low end job. however, I still like the idea of this project. and I still have much to learn,
+but it feels as if I didn't actually learn anything from my time even when I had a computer. I guess that whenever I would learn something I could apply to one of my projects, I could come back to it and apply it until it's finished. for now, this is no time for writing my own code. it's more appropriate for me to read about various subjects related to computer programming as well as contributing whenever I can to open source projects, such as python even. I did learn, however, that it is more comfortable to use JAVA for gui. I'll see how I am going to implement that. I also learned that you can use selenium in python for doing many of the things I planned on doing here. which is the main reason why I had abandoned this project. since I felt it is useless. though I could see various applications for it. a form of an open source window builder for websites that actually works, that could also be used for creating bots and crawlers. as well as viewing the inner-workings of sites such as youtube (which was part of my initial motivation for building this project).
